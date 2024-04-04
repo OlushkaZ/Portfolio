@@ -1,6 +1,6 @@
 # Выявление закономерностей, определяющих успешность компьютерных игр для интернет-магазина.
 
-[HTML](https://github.com/OlushkaZ/Portfolio/edit/main/computer%20games/games.html)     [ipynb](https://github.com/OlushkaZ/Portfolio/edit/main/computer%20games/games.ipynb)
+[HTML](https://github.com/OlushkaZ/Portfolio/blob/main/computer%20games/games.html)     [ipynb](https://github.com/OlushkaZ/Portfolio/blob/main/computer%20games/games.ipynb)
 
 ## Описание проекта
 
