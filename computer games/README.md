@@ -1,6 +1,8 @@
 # Выявление закономерностей, определяющих успешность компьютерных игр для интернет-магазина.
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Taxi%20Service/P12_Portfolio.html)     [ipynb](https://github.com/OlushkaZ/Portfolio/edit/main/computer%20games/games.ipynb)
+[HTML](https://github.com/OlushkaZ/Portfolio/edit/main/computer%20games/games.html)    
+[ipynb](https://github.com/OlushkaZ/Portfolio/edit/main/computer%20games/games.ipynb)
+
 
 ## Описание проекта
 
