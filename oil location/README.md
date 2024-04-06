@@ -33,6 +33,7 @@
 - sklearn.metrics.**mean_squared_error**
 - sklearn.metrics.**Pipeline**
 - sklearn.linear_model.**LinearRegression**
+- **bootstrap**
 - **matplotlib**
 - **seaborn**
 
